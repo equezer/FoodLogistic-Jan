@@ -4,7 +4,7 @@ Aquesta és la web corporativa de FoodLogistic, és una empresa capdavantera en 
 
 ## Demostració
 
-[🌐 URL de la web](https://equez/FoodLogistic-Jan)
+[🌐 URL de la web](https://equezer/FoodLogistic-Jan)
 
 ## Tecnologies Utilitzades
 
